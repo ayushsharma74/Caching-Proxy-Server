@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import axios from "axios";
 import express from "express";
 import { options } from "./proxyScript.js";

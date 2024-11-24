@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
+  "bin": {
+  "caching-proxy": "./src/server.js"
+},
   "scripts": {
     "dev": "node server.js"
   },
